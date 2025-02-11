@@ -15,6 +15,7 @@ variable "account_tier" {
   description = "The storage account tier: Standard or Premium"
   default     = "Standard"
   # Note about validation
+  # comment
 }
 
 variable "account_replication_type" {
